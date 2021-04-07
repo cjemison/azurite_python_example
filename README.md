@@ -6,7 +6,9 @@ Ran into a bunch of issues getting it running.
 ```shell
 $ mkdir -p "azurite"
 $ docker-compose up -d azurite
-$ pipenv lock
+$ pipenv --python 3.9.2
+$ pipenv install
 $ pipenv shell
 $ ./main.py
+$ pipenv --rm # deletes the virtualenv
 ```
