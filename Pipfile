@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 azure-storage-blob = "*"
-ipython = "*"
 
 [dev-packages]
+ipython = "*"
 
 [requires]
 python_version = "3.9"
