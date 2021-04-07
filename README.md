@@ -1,7 +1,6 @@
 # Azure Azurite Python Example
 
-When I was at work, I was trying to get azurite to work locally.
-Ran into a bunch of issues getting it running.
+When I was at work I was trying to get Azurite to work locally, I Ran into a bunch of issues getting it running.
 
 ```shell
 $ mkdir -p "azurite"
