@@ -1,4 +1,4 @@
-# Azure Python Example
+# Azure Azurite Python Example
 
 When I was at work I was trying to get Azurite to work locally, but I ran into a bunch of issues. Here's what worked.
 
